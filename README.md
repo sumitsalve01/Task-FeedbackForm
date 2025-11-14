@@ -29,8 +29,7 @@ Follow these steps to set up and run the project locally:
 
 #### 1. Clone the repository
 ```python
-git clone https://github.com/your-username/feedback-system.git
-cd feedback-system
+git clone https://github.com/sumitsalve01/Task-FeedbackForm.git
 ```
 
 #### 2. Install dependencies
